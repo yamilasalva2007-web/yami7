@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+
+
+/* clase primero */
+.primero {
+    color: black
+}
+
+
+
+
+body {
+    background-color: burlywood;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    /*Declaración= Propiedad:valor; */
+    color: rgb(28, 5, 40);
+
+}
+
+h2 {
+    color: rgb(62, 185, 216);
+}
+
+a {
+    color: rgb(29, 11, 94);
+    text-decoration: rgb(253, 252, 251);
+}
+
+li {
+    list-style: none
+}
+
+#carouselExample{
+    width: 80%;
+    margin: 0 auto;
+}
+.padre{
+    display  :flex;
+    justify-content: space-around;
+}
